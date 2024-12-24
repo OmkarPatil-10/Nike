@@ -25,20 +25,6 @@ The project aims to strengthen my understanding of utility-first CSS and how to 
 
 ---
 
-## 🧑‍💻 How to Run the Project
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/repository-name.git
-   ```
-2. Navigate to the project directory:
-   ```bash
-   cd repository-name
-   ```
-3. Open the project in your browser:
-   - Open the `index.html` file directly.
-
----
-
 ## 🌟 Features
 - Responsive design with **Tailwind CSS**.
 - Modern and clean UI inspired by **Nike**.
